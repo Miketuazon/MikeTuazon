@@ -18,6 +18,12 @@
 <img class="logo" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img class="logo" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 </div>
+
+🔭 I’m currently working on: 
+- Creating more features on my EventBrite clone!
+
+🌱 I’m currently learning:
+- Angular!
 <!--
 **Miketuazon/MikeTuazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
