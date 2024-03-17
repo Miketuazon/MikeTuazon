@@ -20,10 +20,10 @@
 </div>
 
 🔭 I’m currently working on: 
-- Creating more features on my EventBrite clone!
+- Studying Data Structures and Algorithms
 
 🌱 I’m currently learning:
-- Angular!
+- TypeScript!
 <!--
 **Miketuazon/MikeTuazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
